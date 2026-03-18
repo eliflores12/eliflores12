@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
+### 📊 Estadísticas de GitHub
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+
 ### 🏆 Certificaciones Destacadas
 * **Python Specialist**: Dominio de lógica de programación, estructuras de datos y scripts.
 * **Microsoft Excel Expert**: Manejo avanzado de datos y análisis.
