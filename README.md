@@ -16,8 +16,8 @@
 </p>
 
 ### 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=eliflores12&show_icons=true&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflores12&layout=compact&theme=tokyonight)
 
 ### 🏆 Certificaciones Destacadas
 * **Python Specialist**: Dominio de lógica de programación, estructuras de datos y scripts.
