@@ -5,7 +5,7 @@
 - 🎓 Estudiante de Ingeniería de Desarrollo de Software en la **Universidad Centroamericana "José Simeón Cañas" (UCA)**.
 - 💡 Graduado de  **Fundación Poma (Programa Supérate)**.
 - 🐍 Entusiasta de la automatización y el desarrollo con **Python**.
-- 🎮 Interesado en .
+- 🎮 Interesado en Videojuegos, programación, emulación de sistemas, etc.
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
