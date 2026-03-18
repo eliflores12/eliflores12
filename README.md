@@ -23,7 +23,7 @@
 
 ### 📫 Conéctate conmigo
 <p align="left">
-<a href="TU_LINK_DE_LINKEDIN" target="blank"><img align="center" src="https://www.linkedin.com/in/el%C3%ADas-flores-flores/" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/el%C3%ADas-flores-flores/" target="blank"><img align="center" src="https://www.linkedin.com/in/el%C3%ADas-flores-flores/" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 *"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
