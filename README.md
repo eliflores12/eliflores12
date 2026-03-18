@@ -3,7 +3,7 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la **tecnología** y el **desarrollo de software**, actualmente formándome como **Ingeniero en Desarrollo de Software** en la UCA. Mi enfoque está en crear soluciones eficientes, limpias y escalables.
 ### 🚀 Sobre mí
 - 🎓 Estudiante de Ingeniería de Desarrollo de Software en la **Universidad Centroamericana "José Simeón Cañas" (UCA)**.
-- 💡 Becario de la **Fundación Poma (Programa Supérate)**.
+- 💡 Graduado de  **Fundación Poma (Programa Supérate)**.
 - 🐍 Entusiasta de la automatización y el desarrollo con **Python**.
 - 🎮 Interesado en la arquitectura de software y la emulación de sistemas.
 
